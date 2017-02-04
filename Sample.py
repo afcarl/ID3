@@ -69,3 +69,5 @@ def split_data(x, y):
 d = np.array([o,h,t,w]).T
 print(split_data(d,y))
 
+print(partition(o))
+
